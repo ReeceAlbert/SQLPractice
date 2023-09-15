@@ -7,3 +7,4 @@ The project also allowed me to create question that I wanted to answer about the
 The dataset came from kaggle and I conveted it to an sql.doc
 
 [Sales data](https://github.com/ReeceAlbert/SQLPractice/blob/main/Sales%20Data.sql)
+

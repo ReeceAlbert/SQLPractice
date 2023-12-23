@@ -24,12 +24,6 @@ where notes like 'f%';
 -- 58% of teams got picks from another team
 -- Can we find out which teams gave out the most
 -- first lets focus on one team
-SELECT 
-    *
-FROM
-    nfldraft.nfldraft2023
-WHERE
-    notes LIKE '%Dallas%';
     
 select *
 from nfldraft2019;

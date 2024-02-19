@@ -1,3 +1,4 @@
+-- Which college team had the most drafts picks over the past 5 drafts
 with cte as (
 select College,count(*) as amount_college_22
 from nfldraft.nfldraft2022

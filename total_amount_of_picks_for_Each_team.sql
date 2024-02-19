@@ -1,3 +1,4 @@
+-- Which nfl team had the most draft picks over the last 5 drafts
 with cte as (
 select `NFL team`,count(*) as amount_team_22
 from nfldraft.nfldraft2022

@@ -9,7 +9,7 @@ The dataset came from kaggle and I conveted it to an sql.doc
 [Sales data](https://github.com/ReeceAlbert/SQLPractice/blob/main/Sales%20Data.sql)
 
 # [SQL Project 2](https://reecealbert.github.io/SQLPractice/)
-This project is based on the NFL draft. The draft happens every year for every NFL team. The hope to draft or sign college players that will fit their system and their playstyle. I wanted to look more in-depth into the NFL draft to understand more about the different positions,collegiate teams, players, etc. I upload a csv file of NFL draft data to SQL. This data has 5 tables that represent the last 5 NFL drafts. The use of group by, window functions, order by, etc. was displayed inside of this project. When looking through the files on my github, you will see the top line of the sql code represent what I am trying to look for
+This project is based on the NFL draft. The draft happens every year for every NFL team. The hope to draft or sign college players that will fit their system and their playstyle. I wanted to look more in-depth into the NFL draft to understand more about the different positions,collegiate teams, players, etc. I upload a csv file of NFL draft data to SQL. This data has 5 tables that represent the last 5 NFL drafts. The use of group by, window functions, order by, etc. was displayed inside of this project. When looking through the files on my github, you will see the top line of the sql code represent what I am trying to look for. I will try and put a summary of each code snippet below
 
 
 

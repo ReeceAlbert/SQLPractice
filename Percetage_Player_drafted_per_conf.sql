@@ -1,3 +1,4 @@
+-- Total % of players per Power 5 conference
 select round((select count(*) as sec_player from nfldraft.nfldraft2019 where `Conf.` = 'SEC')/count(*),2) as total_pecrcentage_sec_player,
 round((select count(*) as sec_player from nfldraft.nfldraft2019 where `Conf.` = 'ACC')/count(*),2) as total_pecrcentage_acc_player,
 round((select count(*) as sec_player from nfldraft.nfldraft2019 where `Conf.` = 'Big Ten')/count(*),2) as total_pecrcentage_bigten_player,

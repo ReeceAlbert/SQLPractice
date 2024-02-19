@@ -1,4 +1,4 @@
--- See what what pconf has the highest % of 1st rounders,etc
+-- See what what conf has the highest % of 1st rounders,etc
 -- lets focus on the previous draft
 -- 2019
 select round((select count(*) as sec_player from nfldraft.nfldraft2019 where `Conf.` = 'SEC' and `ï»¿Rnd.` = 1)/count(*),2) as total_pecrcentage_sec_player_round_1,

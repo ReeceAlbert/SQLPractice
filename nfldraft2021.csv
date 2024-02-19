@@ -1,0 +1,262 @@
+﻿Rnd.,Pick No.,NFL team,Player,Pos.,College,Conf.,Notes
+1,1,Jacksonville Jaguars,Trevor Lawrence †,QB,Clemson,ACC,
+1,2,New York Jets,Zach Wilson ,QB,BYU,Ind. (FBS),
+1,3,San Francisco 49ers,Trey Lance ,QB,North Dakota State,MVFC,from Houston via Miami[R1 - 1]
+1,4,Atlanta Falcons,Kyle Pitts †,TE,Florida,SEC,2020 John Mackey Award winner
+1,5,Cincinnati Bengals,Ja'Marr Chase †,WR,LSU,SEC,2019 Biletnikoff Award winner
+1,6,Miami Dolphins,Jaylen Waddle ,WR,Alabama,SEC,from Philadelphia[R1 - 2]
+1,7,Detroit Lions,Penei Sewell †,OT,Oregon,Pac-12,2019 Outland Trophy winner
+1,8,Carolina Panthers,Jaycee Horn ,CB,South Carolina,SEC,
+1,9,Denver Broncos,Patrick Surtain II †,CB,Alabama,SEC,
+1,10,Philadelphia Eagles,DeVonta Smith ,WR,Alabama,SEC,from Dallas[R1 - 3]
+1,11,Chicago Bears,Justin Fields ,QB,Ohio State,Big Ten,from NY Giants[R1 - 4]
+1,12,Dallas Cowboys,Micah Parsons †,LB,Penn State,Big Ten,from San Francisco via Miami and Philadelphia[R1 - 5]
+1,13,Los Angeles Chargers,Rashawn Slater †,OT,Northwestern,Big Ten,
+1,14,New York Jets,Alijah Vera-Tucker ,OG,USC,Pac-12,from Minnesota[R1 - 6]
+1,15,New England Patriots,Mac Jones †,QB,Alabama,SEC,2020 Davey O'Brien Award winner and Johnny Unitas Golden Arm Award winner
+1,16,Arizona Cardinals,Zaven Collins ,LB,Tulsa,The American,2020 Bronko Nagurski Trophy winner and Chuck Bednarik Award winner
+1,17,Las Vegas Raiders,Alex Leatherwood ,OT,Alabama,SEC,2020 Outland Trophy winner
+1,18,Miami Dolphins,Jaelan Phillips ,DE,Miami (FL),ACC,
+1,19,Washington Football Team,Jamin Davis ,LB,Kentucky,SEC,
+1,20,New York Giants,Kadarius Toney ,WR,Florida,SEC,from Chicago[R1 - 7]
+1,21,Indianapolis Colts,Kwity Paye ,DE,Michigan,Big Ten,
+1,22,Tennessee Titans,Caleb Farley ,CB,Virginia Tech,ACC,
+1,23,Minnesota Vikings,Christian Darrisaw ,OT,Virginia Tech,ACC,from Seattle via NY Jets[R1 - 8]
+1,24,Pittsburgh Steelers,Najee Harris †,RB,Alabama,SEC,2020 Doak Walker Award winner
+1,25,Jacksonville Jaguars,Travis Etienne ,RB,Clemson,ACC,from LA Rams[R1 - 9]
+1,26,Cleveland Browns,Greg Newsome II ,CB,Northwestern,Big Ten,
+1,27,Baltimore Ravens,Rashod Bateman ,WR,Minnesota,Big Ten,
+1,28,New Orleans Saints,Payton Turner ,DE,Houston,The American,
+1,29,Green Bay Packers,Eric Stokes ,CB,Georgia,SEC,
+1,30,Buffalo Bills,Gregory Rousseau ,DE,Miami (FL),ACC,
+1,31,Baltimore Ravens,Odafe Oweh ,DE,Penn State,Big Ten,from Kansas City[R1 - 10]
+1,32,Tampa Bay Buccaneers,Joe Tryon-Shoyinka ,DE,Washington,Pac-12,
+2,33,Jacksonville Jaguars,Tyson Campbell ,CB,Georgia,SEC,
+2,34,New York Jets,Elijah Moore ,WR,Ole Miss,SEC,
+2,35,Denver Broncos,Javonte Williams ,RB,North Carolina,ACC,from Atlanta[R2 - 1]
+2,36,Miami Dolphins,Jevon Holland ,S,Oregon,Pac-12,from Houston[R2 - 2]
+2,37,Philadelphia Eagles,Landon Dickerson †,C,Alabama,SEC,2020 Rimington Trophy winner
+2,38,New England Patriots,Christian Barmore ,DT,Alabama,SEC,from Cincinnati[R2 - 3]
+2,39,Chicago Bears,Teven Jenkins ,OT,Oklahoma State,Big 12,from Carolina[R2 - 4]
+2,40,Atlanta Falcons,Richie Grant ,S,UCF,The American,from Denver[R2 - 5]
+2,41,Detroit Lions,Levi Onwuzurike ,DT,Washington,Pac-12,
+2,42,Miami Dolphins,Liam Eichenberg ,OT,Notre Dame,Ind. (FBS),from NY Giants[R2 - 6]
+2,43,Las Vegas Raiders,Trevon Moehrig ,S,TCU,Big 12,from San Francisco[R2 - 7]
+2,44,Dallas Cowboys,Kelvin Joseph ,CB,Kentucky,SEC,
+2,45,Jacksonville Jaguars,Walker Little ,OT,Stanford,Pac-12,from Minnesota[R2 - 8]
+2,46,Cincinnati Bengals,Jackson Carman ,OT,Clemson,ACC,from New England[R2 - 9]
+2,47,Los Angeles Chargers,Asante Samuel Jr. ,CB,Florida State,ACC,
+2,48,San Francisco 49ers,Aaron Banks ,OG,Notre Dame,Ind. (FBS),from Las Vegas[R2 - 10]
+2,49,Arizona Cardinals,Rondale Moore ,WR,Purdue,Big Ten,
+2,50,New York Giants,Azeez Ojulari ,DE,Georgia,SEC,from Miami[R2 - 11]
+2,51,Washington Football Team,Sam Cosmi ,OT,Texas,Big 12,
+2,52,Cleveland Browns,Jeremiah Owusu-Koramoah †,LB,Notre Dame,Ind. (FBS),from Chicago via Carolina[R2 - 12]
+2,53,Tennessee Titans,Dillon Radunz ,OT,North Dakota State,MVFC,
+2,54,Indianapolis Colts,Dayo Odeyingbo ,DE,Vanderbilt,SEC,
+2,55,Pittsburgh Steelers,Pat Freiermuth ,TE,Penn State,Big Ten,
+2,56,Seattle Seahawks,D'Wayne Eskridge ,WR,Western Michigan,MAC,
+2,57,Los Angeles Rams,Tutu Atwell ,WR,Louisville,ACC,
+2,58,Kansas City Chiefs,Nick Bolton ,LB,Missouri,SEC,from Baltimore[R2 - 13]
+2,59,Carolina Panthers,Terrace Marshall Jr. ,WR,LSU,SEC,from Cleveland[R2 - 14]
+2,60,New Orleans Saints,Pete Werner ,LB,Ohio State,Big Ten,
+2,61,Buffalo Bills,Carlos Basham Jr. ,DE,Wake Forest,ACC,
+2,62,Green Bay Packers,Josh Myers ,C,Ohio State,Big Ten,
+2,63,Kansas City Chiefs,Creed Humphrey †,C,Oklahoma,Big 12,
+2,64,Tampa Bay Buccaneers,Kyle Trask ,QB,Florida,SEC,
+3,65,Jacksonville Jaguars,Andre Cisco ,S,Syracuse,ACC,
+3,66,Minnesota Vikings,Kellen Mond ,QB,Texas A&M,SEC,from NY Jets[R3 - 1]
+3,67,Houston Texans,Davis Mills ,QB,Stanford,Pac-12,
+3,68,Atlanta Falcons,Jalen Mayfield ,OT,Michigan,Big Ten,
+3,69,Cincinnati Bengals,Joseph Ossai ,DE,Texas,Big 12,
+3,70,Carolina Panthers,Brady Christensen ,OT,BYU,Ind. (FBS),from Philadelphia[R3 - 2]
+3,71,New York Giants,Aaron Robinson ,CB,UCF,The American,from Denver[R3 - 3]
+3,72,Detroit Lions,Alim McNeill ,DT,NC State,ACC,
+3,73,Philadelphia Eagles,Milton Williams ,DT,Louisiana Tech,C-USA,from Carolina[R3 - 4]
+3,74,Washington Football Team,Benjamin St-Juste ,CB,Minnesota,Big Ten,from San Francisco[R3 - 5]
+3,75,Dallas Cowboys,Osa Odighizuwa ,DT,UCLA,Pac-12,
+3,76,New Orleans Saints,Paulson Adebo ,CB,Stanford,Pac-12,from NY Giants via Denver[R3 - 6]
+3,–,New England Patriots,Selection forfeited[Forfeit 1],,,,
+3,77,Los Angeles Chargers,Josh Palmer ,WR,Tennessee,SEC,
+3,78,Minnesota Vikings,Chazz Surratt ,LB,North Carolina,ACC,
+3,79,Las Vegas Raiders,Malcolm Koonce ,DE,Buffalo,MAC,from Arizona[R3 - 7]
+3,80,Las Vegas Raiders,Divine Deablo ,LB,Virginia Tech,ACC,
+3,81,Miami Dolphins,Hunter Long ,TE,Boston College,ACC,
+3,82,Washington Football Team,Dyami Brown ,WR,North Carolina,ACC,
+3,83,Carolina Panthers,Tommy Tremble ,TE,Notre Dame,Ind. (FBS),from Chicago[R3 - 8]
+3,84,Dallas Cowboys,Chauncey Golston ,DE,Iowa,Big Ten,from Indianapolis via Philadelphia[R3 - 9]
+3,85,Green Bay Packers,Amari Rodgers ,WR,Clemson,ACC,from Tennessee[R3 - 10]
+3,86,Minnesota Vikings,Wyatt Davis ,OG,Ohio State,Big Ten,from Seattle via NY Jets[R3 - 11]
+3,87,Pittsburgh Steelers,Kendrick Green ,C,Illinois,Big Ten,
+3,88,San Francisco 49ers,Trey Sermon ,RB,Ohio State,Big Ten,from LA Rams[R3 - 12]
+3,89,Houston Texans,Nico Collins ,WR,Michigan,Big Ten,from Cleveland via Carolina[R3 - 13]
+3,90,Minnesota Vikings,Patrick Jones II ,DE,Pittsburgh,ACC,from Baltimore[R3 - 14]
+3,91,Cleveland Browns,Anthony Schwartz ,WR,Auburn,SEC,from New Orleans[R3 - 15]
+3,92,Tennessee Titans,Monty Rice ,LB,Georgia,SEC,from Green Bay[R3 - 16]
+3,93,Buffalo Bills,Spencer Brown ,OT,Northern Iowa,MVFC,
+3,94,Baltimore Ravens,Ben Cleveland ,OG,Georgia,SEC,from Kansas City[R3 - 17]
+3,95,Tampa Bay Buccaneers,Robert Hainsey ,OT,Notre Dame,Ind. (FBS),
+3,96,New England Patriots,Ronnie Perkins ,DE,Oklahoma,Big 12,
+3,97,Los Angeles Chargers,Tre' McKitty ,TE,Georgia,SEC,
+3,98,Denver Broncos,Quinn Meinerz ,OG,Wisconsin–Whitewater,WIAC,from New Orleans[R3 - 18]
+3,99,Dallas Cowboys,Nahshon Wright ,CB,Oregon State,Pac-12,
+3,100,Tennessee Titans,Elijah Molden ,CB,Washington,Pac-12,
+3,101,Detroit Lions,Ifeatu Melifonwu ,CB,Syracuse,ACC,from LA Rams[R3 - 19]
+3,102,San Francisco 49ers,Ambry Thomas ,CB,Michigan,Big Ten,2020 Resolution JC-2A selection[a]
+3,103,Los Angeles Rams,Ernest Jones ,LB,South Carolina,SEC,2020 Resolution JC-2A selection[b]
+3,104,Baltimore Ravens,Brandon Stephens ,CB,SMU,The American,2020 Resolution JC-2A selection[c]
+3,105,Denver Broncos,Baron Browning ,LB,Ohio State,Big Ten,2020 Resolution JC-2A selection[d]
+4,106,Jacksonville Jaguars,Jay Tufele ,DT,USC,Pac-12,
+4,107,New York Jets,Michael Carter ,RB,North Carolina,ACC,
+4,108,Atlanta Falcons,Darren Hall ,CB,San Diego State,MW,
+4,109,Tennessee Titans,Dez Fitzpatrick ,WR,Louisville,ACC,from Houston via Carolina[R4 - 1]
+4,110,Cleveland Browns,James Hudson ,OT,Cincinnati,The American,from Philadelphia[R4 - 2]
+4,111,Cincinnati Bengals,Cameron Sample ,DE,Tulane,The American,
+4,112,Detroit Lions,Amon-Ra St. Brown †,WR,USC,Pac-12,
+4,113,Detroit Lions,Derrick Barnes ,LB,Purdue,Big Ten,from Carolina via Cleveland[R4 - 3]
+4,114,Atlanta Falcons,Drew Dalman ,C,Stanford,Pac-12,from Denver[R4 - 4]
+4,115,Dallas Cowboys,Jabril Cox ,LB,LSU,SEC,
+4,116,New York Giants,Elerson Smith ,DE,Northern Iowa,MVFC,
+4,117,Los Angeles Rams,Bobby Brown III ,DT,Texas A&M,SEC,from San Francisco[R4 - 5]
+4,118,Los Angeles Chargers,Chris Rumph II ,DE,Duke,ACC,
+4,119,Minnesota Vikings,Kene Nwangwu ,RB,Iowa State,Big 12,
+4,120,New England Patriots,Rhamondre Stevenson ,RB,Oklahoma,Big 12,
+4,121,Jacksonville Jaguars,Jordan Smith ,DE,UAB,C-USA,"from Las Vegas via Miami, Las Vegas, San Francisco,"
+4,122,Cincinnati Bengals,Tyler Shelvin ,DT,LSU,SEC,from Arizona via Houston and New England[R4 - 7]
+4,123,Philadelphia Eagles,Zech McPhearson ,CB,Texas Tech,Big 12,from Miami[R4 - 8]
+4,124,Washington Football Team,John Bates ,TE,Boise State,MW,
+4,125,Minnesota Vikings,Camryn Bynum ,S,California,Pac-12,from Chicago[R4 - 9]
+4,126,Carolina Panthers,Chuba Hubbard ,RB,Oklahoma State,Big 12,from Tennessee[R4 - 10]
+4,127,Indianapolis Colts,Kylen Granson ,TE,SMU,The American,
+4,128,Pittsburgh Steelers,Dan Moore ,OT,Texas A&M,SEC,
+4,129,Tampa Bay Buccaneers,Jaelon Darden ,WR,North Texas,C-USA,from Seattle[R4 - 11]
+4,130,Los Angeles Rams,Robert Rochell ,CB,Central Arkansas,Southland,from LA Rams via Jacksonville[R4 - 12]
+4,131,Baltimore Ravens,Tylan Wallace ,WR,Oklahoma State,Big 12,
+4,132,Cleveland Browns,Tommy Togiai ,DT,Ohio State,Big Ten,
+4,133,New Orleans Saints,Ian Book ,QB,Notre Dame,Ind. (FBS),
+4,134,Minnesota Vikings,Janarius Robinson ,DE,Florida State,ACC,from Buffalo[R4 - 13]
+4,135,Tennessee Titans,Rashad Weaver ,DE,Pittsburgh,ACC,from Green Bay[R4 - 14]
+4,136,Arizona Cardinals,Marco Wilson ,CB,Florida,SEC,from Kansas City via Baltimore[R4 - 15]
+4,137,Seattle Seahawks,Tre Brown ,CB,Oklahoma,Big 12,from Tampa Bay[R4 - 16]
+4,138,Dallas Cowboys,Josh Ball ,OT,Marshall,C-USA,
+4,139,Cincinnati Bengals,D'Ante Smith ,OT,East Carolina,The American,from New England[R4 - 17]
+4,140,Pittsburgh Steelers,Buddy Johnson ,LB,Texas A&M,SEC,
+4,141,Los Angeles Rams,Jacob Harris ,WR,UCF,The American,
+4,142,Green Bay Packers,Royce Newman ,OG,Ole Miss,SEC,
+4,143,Las Vegas Raiders,Tyree Gillespie ,S,Missouri,SEC,from Minnesota via NY Jets[R4 - 18]
+4,144,Kansas City Chiefs,Joshua Kaindoh ,DE,Florida State,ACC,
+5,145,Jacksonville Jaguars,Luke Farrell ,TE,Ohio State,Big Ten,
+5,146,New York Jets,Jamien Sherwood ,S,Auburn,SEC,
+5,147,Houston Texans,Brevin Jordan ,TE,Miami (FL),ACC,
+5,148,Atlanta Falcons,Ta'Quon Graham ,DE,Texas,Big 12,
+5,149,Cincinnati Bengals,Evan McPherson ,K,Florida,SEC,
+5,150,Philadelphia Eagles,Kenneth Gainwell ,RB,Memphis,The American,
+5,151,Chicago Bears,Larry Borom ,OT,Missouri,SEC,from Carolina[R5 - 1]
+5,152,Denver Broncos,Caden Sterns ,S,Texas,Big 12,
+5,153,Cleveland Browns,Tony Fields II ,LB,West Virginia,Big 12,from Detroit[R5 - 2]
+5,154,New York Jets,Michael Carter II ,S,Duke,ACC,from NY Giants[R5 - 3]
+5,155,San Francisco 49ers,Jaylon Moore ,OG,Western Michigan,MAC,
+5,156,Pittsburgh Steelers,Isaiahh Loudermilk ,DT,Wisconsin,Big Ten,from Dallas via Philadelphia and Miami[R5 - 4]
+5,157,Minnesota Vikings,Ihmir Smith-Marsette ,WR,Iowa,Big Ten,
+5,158,Carolina Panthers,Daviyon Nixon ,DT,Iowa,Big Ten,from New England via Houston[R5 - 5]
+5,159,Los Angeles Chargers,Brenden Jaimes ,OT,Nebraska,Big Ten,
+5,160,Baltimore Ravens,Shaun Wade ,CB,Ohio State,Big Ten,from Arizona[R5 - 6]
+5,161,Buffalo Bills,Tommy Doyle ,OT,Miami (OH),MAC,from Las Vegas[R5 - 7]
+5,162,Kansas City Chiefs,Noah Gray ,TE,Duke,ACC,from Miami via Las Vegas and NY Jets[R5 - 8]
+5,163,Washington Football Team,Darrick Forrest ,S,Cincinnati,The American,
+5,164,Denver Broncos,Jamar Johnson ,S,Indiana,Big Ten,from Chicago via NY Giants[R5 - 9]
+5,165,Indianapolis Colts,Shawn Davis ,S,Florida,SEC,
+5,166,Carolina Panthers,Keith Taylor ,CB,Washington,Pac-12,from Tennessee[R5 - 10]
+5,167,Las Vegas Raiders,Nate Hobbs ,CB,Illinois,Big Ten,from Seattle[R5 - 11]
+5,168,Minnesota Vikings,Zach Davidson ,TE,Central Missouri,MIAA,from Pittsburgh via Baltimore[R5 - 12]
+5,169,Cleveland Browns,Richard LeCounte ,S,Georgia,SEC,from LA Rams[R5 - 13]
+5,170,Houston Texans,Garret Wallow ,LB,TCU,Big 12,from Cleveland via Jacksonville and LA Rams[R5 - 14]
+5,171,Baltimore Ravens,Daelin Hayes ,DE,Notre Dame,Ind. (FBS),
+5,172,San Francisco 49ers,Deommodore Lenoir ,CB,Oregon,Pac-12,from New Orleans[R5 - 15]
+5,173,Green Bay Packers,Tedarrell Slaton ,DT,Florida,SEC,
+5,174,Los Angeles Rams,Earnest Brown IV ,DE,Northwestern,Big Ten,from Buffalo via Houston[R5 - 16]
+5,175,New York Jets,Jason Pinnock ,CB,Pittsburgh,ACC,from Kansas City[R5 - 17]
+5,176,Tampa Bay Buccaneers,K. J. Britt ,LB,Auburn,SEC,
+5,177,New England Patriots,Cameron McGrone ,LB,Michigan,Big Ten,33rd compensatory selection[N 2]
+5,178,Green Bay Packers,Shemar Jean-Charles ,CB,Appalachian State,Sun Belt,
+5,179,Dallas Cowboys,Simi Fehoko ,WR,Stanford,Pac-12,
+5,180,San Francisco 49ers,Talanoa Hufanga †,S,USC,Pac-12,
+5,181,Kansas City Chiefs,Cornell Powell ,WR,Clemson,ACC,
+5,182,Atlanta Falcons,Adetokunbo Ogundeji ,DE,Notre Dame,Ind. (FBS),
+5,183,Atlanta Falcons,Avery Williams ,CB,Boise State,MW,
+5,184,Baltimore Ravens,Ben Mason ,FB,Michigan,Big Ten,
+6,185,Los Angeles Chargers,Nick Niemann ,LB,Iowa,Big Ten,from Jacksonville via Tennessee[R6 - 1]
+6,186,New York Jets,Hamsah Nasirildeen ,S,Florida State,ACC,from NY Jets via New England[R6 - 2]
+6,187,Atlanta Falcons,Frank Darby ,WR,Arizona State,Pac-12,
+6,188,New England Patriots,Joshuah Bledsoe ,S,Missouri,SEC,from Houston[R6 - 3]
+6,189,Philadelphia Eagles,Marlon Tuipulotu ,DT,USC,Pac-12,
+6,190,Cincinnati Bengals,Trey Hill ,C,Georgia,SEC,
+6,191,Philadelphia Eagles,Tarron Jackson ,DE,Coastal Carolina,Sun Belt,from Denver via Carolina[R6 - 4]
+6,192,Dallas Cowboys,Quinton Bohanna ,DT,Kentucky,SEC,from Detroit[R6 - 5]
+6,193,Carolina Panthers,Deonte Brown ,OG,Alabama,SEC,
+6,194,San Francisco 49ers,Elijah Mitchell ,RB,Louisiana,Sun Belt,
+6,195,Houston Texans,Roy Lopez ,DT,Arizona,Pac-12,from Dallas via New England[R6 - 6]
+6,196,New York Giants,Gary Brightwell ,RB,Arizona,Pac-12,
+6,197,New England Patriots,William Sherman ,OT,Colorado,Pac-12,
+6,198,Los Angeles Chargers,Larry Rountree III ,RB,Missouri,SEC,
+6,199,Minnesota Vikings,Jaylen Twyman ,DT,Pittsburgh,ACC,
+6,200,New York Jets,Brandin Echols ,CB,Kentucky,SEC,"Forfeiture of selection announced,"
+6,201,New York Giants,Rodarius Williams ,CB,Oklahoma State,Big 12,from Arizona[R6 - 8]
+6,202,Cincinnati Bengals,Chris Evans ,RB,Michigan,Big Ten,from Miami via Houston[R6 - 9]
+6,203,Buffalo Bills,Marquez Stevenson ,WR,Houston,The American,"from Washington via Las Vegas, Miami, and Houston[R6 - 10]"
+6,204,Carolina Panthers,Shi Smith ,WR,South Carolina,SEC,from Chicago[R6 - 11]
+6,205,Tennessee Titans,Racey McMath ,WR,LSU,SEC,
+6,206,New Orleans Saints,Landon Young ,OT,Kentucky,SEC,from Indianapolis[R6 - 12]
+6,207,New York Jets,Jonathan Marshall ,DT,Arkansas,SEC,from Pittsburgh via Miami and Kansas City[R6 - 13]
+6,208,Seattle Seahawks,Stone Forsythe ,OT,Florida,SEC,from Seattle via Miami and Chicago[R6 - 14]
+6,209,Jacksonville Jaguars,Jalen Camp ,WR,Georgia Tech,ACC,from LA Rams[R6 - 15]
+6,210,Arizona Cardinals,Victor Dimukeje ,DE,Duke,ACC,from Baltimore[R6 - 16]
+6,211,Cleveland Browns,Demetric Felton ,RB,UCLA,Pac-12,
+6,212,Buffalo Bills,Damar Hamlin ,S,Pittsburgh,ACC,from New Orleans via Houston[R6 - 17]
+6,213,Buffalo Bills,Rachad Wildgoose ,CB,Wisconsin,Big Ten,
+6,214,Green Bay Packers,Cole Van Lanen ,OG,Wisconsin,Big Ten,
+6,215,Tennessee Titans,Brady Breeze ,S,Oregon,Pac-12,from Kansas City[R6 - 18]
+6,216,Pittsburgh Steelers,Quincy Roche ,DE,Miami (FL),ACC,from Tampa Bay[R6 - 19]
+6,217,Chicago Bears,Khalil Herbert ,RB,Virginia Tech,ACC,from Tampa Bay via Seattle[R6 - 20]
+6,218,Indianapolis Colts,Sam Ehlinger ,QB,Texas,Big 12,from New Orleans[R6 - 21]
+6,219,Denver Broncos,Seth Williams ,WR,Auburn,SEC,from Atlanta[R6 - 22]
+6,220,Green Bay Packers,Isaiah McDuffie ,LB,Boston College,ACC,
+6,221,Chicago Bears,Dazz Newsome ,WR,North Carolina,ACC,
+6,222,Carolina Panthers,Thomas Fletcher ,LS,Alabama,SEC,
+6,223,Arizona Cardinals,Tay Gowan ,CB,UCF,The American,from Minnesota[R6 - 23]
+6,224,Philadelphia Eagles,JaCoby Stevens ,S,LSU,SEC,
+6,225,Washington Football Team,Camaron Cheeseman ,LS,Michigan,Big Ten,from Philadelphia[R6 - 24]
+6,226,Kansas City Chiefs,Trey Smith ,OG,Tennessee,SEC,from Carolina via NY Jets[R6 - 25]
+6,227,Dallas Cowboys,Israel Mukuamu ,CB,South Carolina,SEC,
+6,228,Chicago Bears,Thomas Graham Jr. ,CB,Oregon,Pac-12,
+7,229,Indianapolis Colts,Mike Strachan ,WR,Charleston (WV),MEC,from Jacksonville via New Orleans[R7 - 1]
+7,230,Las Vegas Raiders,Jimmy Morrissey ,C,Pittsburgh,ACC,from NY Jets via San Francisco[R7 - 2]
+7,231,Miami Dolphins,Larnel Coleman ,OT,UMass,Ind. (FBS),from Houston[R7 - 3]
+7,232,Carolina Panthers,Phil Hoskins ,DT,Kentucky,SEC,from Atlanta via Miami and Tennessee[R7 - 4]
+7,233,Los Angeles Rams,Jake Funk ,RB,Maryland,Big Ten,from Cincinnati via Houston[R7 - 5]
+7,234,Philadelphia Eagles,Patrick Johnson ,DE,Tulane,The American,
+7,235,Cincinnati Bengals,Wyatt Hubert ,DE,Kansas State,Big 12,from Detroit via Seattle[R7 - 6]
+7,236,Buffalo Bills,Jack Anderson ,OG,Texas Tech,Big 12,from Carolina[R7 - 7]
+7,237,Denver Broncos,Kary Vincent Jr. ,CB,LSU,SEC,
+7,238,Dallas Cowboys,Matt Farniok ,OG,Nebraska,Big Ten,
+7,239,Denver Broncos,Jonathon Cooper ,DE,Ohio State,Big Ten,from NY Giants[R7 - 8]
+7,240,Washington Football Team,William Bradley-King ,DE,Baylor,Big 12,from San Francisco via Philadelphia[R7 - 9]
+7,241,Los Angeles Chargers,Mark Webb ,S,Georgia,SEC,
+7,–,Minnesota Vikings,Selection forfeited[Forfeit 2],,,,
+7,242,New England Patriots,Tre Nixon ,WR,UCF,The American,
+7,243,Arizona Cardinals,James Wiggins ,S,Cincinnati,The American,
+7,244,Miami Dolphins,Gerrid Doaks ,RB,Cincinnati,The American,from Las Vegas via Washington[R7 - 10]
+7,245,Pittsburgh Steelers,Tre Norwood ,CB,Oklahoma,Big 12,from Miami[R7 - 11]
+7,246,Washington Football Team,Shaka Toney ,DE,Penn State,Big Ten,
+7,247,Arizona Cardinals,Michal Menet ,C,Penn State,Big Ten,from Chicago via Las Vegas[R7 - 12]
+7,248,Indianapolis Colts,Will Fries ,OG,Penn State,Big Ten,
+7,249,Los Angeles Rams,Ben Skowronek ,WR,Notre Dame,Ind. (FBS),from Tennessee via Jacksonville[R7 - 13]
+7,250,Chicago Bears,Khyiris Tonga ,DT,BYU,Ind. (FBS),from Seattle[R7 - 14]
+7,251,Tampa Bay Buccaneers,Chris Wilcox ,CB,BYU,Ind. (FBS),from Pittsburgh[R7 - 15]
+7,252,Los Angeles Rams,Chris Garrett ,LB,Concordia–St. Paul,NSIC,
+7,253,Denver Broncos,Marquiss Spencer ,DE,Mississippi State,SEC,from Cleveland[R7 - 16]
+7,254,Pittsburgh Steelers,Pressley Harvin III ,P,Georgia Tech,ACC,from Baltimore[R7 - 17]
+7,255,New Orleans Saints,Kawaan Baker ,WR,South Alabama,Sun Belt,"Forfeiture of selection announced,"
+7,256,Green Bay Packers,Kylin Hill ,RB,Mississippi State,SEC,
+7,257,Detroit Lions,Jermar Jefferson ,RB,Oregon State,Pac-12,from Buffalo via Cleveland[R7 - 18]
+7,258,Washington Football Team,Dax Milne ,WR,BYU,Ind. (FBS),from Kansas City via Miami[R7 - 19]
+7,259,Tampa Bay Buccaneers,Grant Stuard ,LB,Houston,The American,Mr. Irrelevant
